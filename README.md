@@ -12,10 +12,6 @@ Welcome to my slice of GitHub! I'm a passionate Security Engineer with a knack f
 - 🛠️ **Incident Response:** Swiftly navigating the stormy seas of security incidents to bring systems back to safety.
 - 🧑‍🏫 **Mentoring:** Guiding cyber security enthusiasts through the maze of threats and defenses, sharing knowledge, and building the next generation of security experts.
 
-### Speaking & Conferences
-
-I regularly attend and speak at security conferences, sharing insights, learning from peers, and staying ahead of the curve in the ever-evolving field of cybersecurity. Check out my talks and upcoming events [here](https://github.com/emgaurav/).
-
 ### My Hobbies
 
 Apart from my professional endeavors, I have a deep appreciation for **classic movies** and **rock music**. These timeless classics and the raw energy of rock music keep me inspired and energized.
