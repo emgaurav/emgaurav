@@ -18,10 +18,11 @@ Apart from my professional endeavors, I have a deep appreciation for **classic m
 
 ### Let's Connect
 
-- **GitHub:** [emgaurav](https://github.com/emgaurav/)
-- **LinkedIn:** [https://www.linkedin.com/in/goa/](#) 
-- **Twitter:** [https://twitter.com/0xGaurav](#) 
-- **Website:** [gaurav.zip](#) 
+- **GitHub:** [https://github.com/emgaurav/](https://github.com/emgaurav/)
+- **LinkedIn:** [LinkedIN](https://www.linkedin.com/in/goa/)
+- **Twitter:** [Twitter](https://twitter.com/0xGaurav)
+- **Website:** [Website](https://www.yourwebsite.com)
+
 
 Feel free to reach out if you're interested in collaborating on projects, need mentorship, or just want to chat about security, code, classic films, or the magic of rock music.
 
