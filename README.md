@@ -1,6 +1,6 @@
 # Hi there, I'm Gaurav Arora 👋
 
-## 🛡️ Security Engineer | 🐍 Python Enthusiast | 🎸 Rock Music Aficionado | 🎬 Classic Movie Buff
+## 🛡️ Security Engineer | 🎸 Rock Music Aficionado | 🎬 Classic Movie Buff
 
 Welcome to my slice of GitHub! I'm a passionate Security Engineer with a knack for automation, scripting in Python, and a deep interest in cybersecurity. When I'm not securing systems or diving into code, you might find me at a security conference, either absorbing wisdom or sharing some of my own.
 
